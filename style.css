@@ -3,7 +3,7 @@ html, body {
   height:100%;  
 }
 #center-text {          
-  display: flex;
+  display: auto;
   flex: 1;
   flex-direction:column; 
   justify-content: center;
