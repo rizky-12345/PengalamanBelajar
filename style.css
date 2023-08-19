@@ -3,7 +3,7 @@ html, body {
   height:100%;  
 }
 #center-text {          
-  display: flex;
+  display: auto;
   flex: 1;
   flex-direction:column; 
   justify-content: center;
@@ -11,6 +11,7 @@ html, body {
   height:100%;
   
 }
+/*bagian ini udah di ubah YAGESSS*/
 #chat-circle {
   position: fixed;
   bottom: 50px;
